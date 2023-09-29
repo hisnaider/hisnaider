@@ -8,9 +8,6 @@ Sou formado em Sistemas de Informação pela FURG e sei falar em portugues (obvi
 - 😄 Ele/dele/cara/mano
 - ⚡ Fun fact: Meu nome surgiu apartir do filme "Dois velhos rabugentos" de 1993. No filme tem um personagem chamado "Snyder" e meus pais gostaram e guardaram esse nome. Se não fosse esse filme, meu nome provavelmente seria Benhur...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hisnaider&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hisnaider&count_private=true&hide_progress=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <div style="display=inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=50/>
