@@ -6,7 +6,7 @@ Sou uma pessoa comunicativa e acredito que a colaboração é essencial para o s
 
 Se você busca alguém comprometido, proativo e que vai entregar bons resultados para a empresa, entre em contato
 
-- 🔭 Sou Pesquisador Junior em dois projetos dentro do iTec/FURG-Embrapii - Centro de Robótica e Ciência de Dados
+- 🔭 No momento a procura de trabalho
 - 🌲 2 anos de experiência com Flutter
 - 🌱 Estou atualmente estudando GoLang
 - 📫 Meu e-email é hisnaider.dev@gmail.com
@@ -15,14 +15,9 @@ Se você busca alguém comprometido, proativo e que vai entregar bons resultados
 
 
 <div style="display=inline-block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height=50/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height=50/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height=50/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=50/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height=50/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=50/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=50/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height=25/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height=25/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height=25/>
 </div>
 
           
